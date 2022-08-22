@@ -1,0 +1,27 @@
+馬刺熱火領先替換次數為7
+Jimmy Butler score= 27,blocks= 0,steals= 2,defend rebound= 3 
+P.J. Tucker score= 2,blocks= 0,steals= 0,defend rebound= 1 
+Bam Adebayo score= 36,blocks= 3,steals= 2,defend rebound= 7 
+Duncan Robinson score= 6,blocks= 0,steals= 0,defend rebound= 0 
+Kyle Lowry score= 13,blocks= 0,steals= 1,defend rebound= 3 
+Gabe Vincent score= 12,blocks= 0,steals= 1,defend rebound= 1 
+Tyler Herro score= 27,blocks= 0,steals= 0,defend rebound= 2 
+Caleb Martin score= 0,blocks= 0,steals= 2,defend rebound= 7 
+Dewayne Dedmon score= 10,blocks= 0,steals= 0,defend rebound= 4 
+Kyle Guy score= 0,blocks= 0,steals= 0,defend rebound= 0 
+Udonis Haslem score= 0,blocks= 0,steals= 0,defend rebound= 0 
+Haywood Highsmith score= 0,blocks= 0,steals= 0,defend rebound= 0 
+Javonte Smart score= 0,blocks= 0,steals= 0,defend rebound= 0 
+Max Strus score= 0,blocks= 0,steals= 0,defend rebound= 0 
+Omer Yurtseven score= 0,blocks= 0,steals= 0,defend rebound= 0 
+Doug McDermott score= 4,blocks= 0,steals= 0,defend rebound= 1 
+Keita Bates-Diop score= 22,blocks= 0,steals= 1,defend rebound= 11 
+Zach Collins score= 5,blocks= 0,steals= 0,defend rebound= 4 
+Devin Vassell score= 22,blocks= 1,steals= 1,defend rebound= 4 
+Tre Jones score= 19,blocks= 0,steals= 1,defend rebound= 6 
+Lonnie Walker IV score= 22,blocks= 0,steals= 0,defend rebound= 3 
+Josh Richardson score= 10,blocks= 0,steals= 0,defend rebound= 1 
+Jock Landale score= 14,blocks= 0,steals= 0,defend rebound= 0 
+Joshua Primo score= 7,blocks= 0,steals= 0,defend rebound= 0 
+Devontae Cacok score= 4,blocks= 0,steals= 2,defend rebound= 4 
+Joe Wieskamp score= 0,blocks= 0,steals= 0,defend rebound= 0 
